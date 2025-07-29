@@ -2,6 +2,7 @@ import path from 'path';
 import { defineConfig, loadEnv } from 'vite';
 
 export default defineConfig(({ mode }) => {
+    base: '/hiit-interval-timer/';
     const env = loadEnv(mode, '.', '');
     return {
       define: {

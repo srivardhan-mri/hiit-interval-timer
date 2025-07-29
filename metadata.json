@@ -1,0 +1,5 @@
+{
+  "name": "HIIT Interval Timer",
+  "description": "A modern, mobile-friendly HIIT (High-Intensity Interval Training) timer with customizable intervals, repetitions, and audio/visual cues.",
+  "requestFramePermissions": []
+}
